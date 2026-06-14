@@ -10,7 +10,7 @@ Ce projet est une application backend développée avec **Spring Boot**. Il perm
 - **Base de données :** Utilisation de H2 (In-memory) pour un développement rapide.
 
 ## 🛠 Technologies utilisées
-- **Langage :** Java 17+
+- **Langage :** Java 21
 - **Framework :** Spring Boot, Spring Data JPA
 - **Base de données :** H2 Database
 - **Outil de test :** Postman
@@ -33,5 +33,3 @@ src/main/java/com/example/TP_Formation/
 ├── repository/     # Interfaces d'accès aux données
 └── TpFormationApplication.java
 
----
-*Projet réalisé dans le cadre d'une formation Spring Boot.*
